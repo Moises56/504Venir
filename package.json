@@ -1,0 +1,19 @@
+{
+  "name": "venir504",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moises56/504Venir.git"
+  },
+  "author": "MoisesA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moises56/504Venir/issues"
+  },
+  "homepage": "https://github.com/Moises56/504Venir#readme"
+}
