@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Moises56/504Venir/issues"
   },
-  "homepage": "https://github.com/Moises56/504Venir#readme"
+  "homepage": "https://github.com/Moises56/504Venir#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.2.0"
+  }
 }
